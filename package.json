@@ -39,7 +39,7 @@
     "@discordjs/voice": "^0.8.0",
     "discord-api-types": "^0.27.3",
     "discord.js": "^13.6.0",
-    "libsodium-wrappers": "^0.7.9",
+    "libsodium-wrappers": "^0.7.11",
     "node-fetch": "^2.6.7"
   }
 }
